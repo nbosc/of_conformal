@@ -3,7 +3,7 @@
 Re-implementation of https://doi.org/10.1186/s13321-018-0325-4 with [LightGBM](https://lightgbm.readthedocs.io/en/latest/).
 
 
-Predicting only models with CCR ((sensitivity + specificity) / 2) >= 0.85
+Use all the QSAR models trained on ChEMBL25.
 
 # Installation
 
